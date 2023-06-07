@@ -12,7 +12,7 @@ class MyDrawer extends StatelessWidget {
               children: [
                 const UserAccountsDrawerHeader(
                   accountName: Text(
-                    "Rahul Barman",
+                    "Mohammod Julkarnayen",
                     textAlign: TextAlign.center,
                     style: TextStyle(
                       color: Colors.white,
@@ -20,7 +20,7 @@ class MyDrawer extends StatelessWidget {
                     ),
                   ),
                   accountEmail: Text(
-                    "rahulbarmon@appgram.com",
+                    "julonekarmakar@gmail.com",
                     style: TextStyle(
                       color: Colors.white,
                       fontSize: 15,
